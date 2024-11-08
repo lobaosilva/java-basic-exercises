@@ -15,59 +15,59 @@ Crie um programa em Java que funcione como uma calculadora simples. O programa d
    - Realize a operação escolhida e exiba o resultado.  
 
 Aqui está o código para a classe `BasicCalculator`:
-```java
-import java.util.Scanner;
-
-public class BasicCalculator {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        // Leitura dos números
-        System.out.print("Digite o primeiro número: ");
-        double numero1 = scanner.nextDouble();
-        
-        System.out.print("Digite o segundo número: ");
-        double numero2 = scanner.nextDouble();
-        
-        // Seleção da operação
-        System.out.print("Escolha uma operação (+, -, *, /): ");
-        char operacao = scanner.next().charAt(0);
-        
-        // Variável para armazenar o resultado
-        double resultado;
-        
-        // Estrutura condicional para realizar a operação
-        switch (operacao) {
-            case '+': 
-                resultado = numero1 + numero2;
-                System.out.println("Resultado: " + resultado);
-                break;
-            case '-':
-                resultado = numero1 - numero2;
-                System.out.println("Resultado: " + resultado);
-                break;
-            case '*':
-                resultado = numero1 * numero2;
-                System.out.println("Resultado: " + resultado);
-                break;
-            case '/':
-                // Verifica se o divisor é diferente de zero
-                if (numero2 != 0) {
-                   resultado = numero1 / numero2;
+   ```java
+   import java.util.Scanner;
+   
+   public class BasicCalculator {
+       public static void main(String[] args) {
+           Scanner scanner = new Scanner(System.in);
+   
+           // Leitura dos números
+           System.out.print("Digite o primeiro número: ");
+           double numero1 = scanner.nextDouble();
+           
+           System.out.print("Digite o segundo número: ");
+           double numero2 = scanner.nextDouble();
+           
+           // Seleção da operação
+           System.out.print("Escolha uma operação (+, -, *, /): ");
+           char operacao = scanner.next().charAt(0);
+           
+           // Variável para armazenar o resultado
+           double resultado;
+           
+           // Estrutura condicional para realizar a operação
+           switch (operacao) {
+               case '+': 
+                   resultado = numero1 + numero2;
                    System.out.println("Resultado: " + resultado);
-                } else {
-                   System.out.println("Erro: Divisão por zero não é permitida.");
-                }
-                break;
-            default:
-                System.out.println("Operação inválida.");
-                break;
-        }
-    
-        scanner.close(); // Fecha o Scanner
-    }
-}
-```
+                   break;
+               case '-':
+                   resultado = numero1 - numero2;
+                   System.out.println("Resultado: " + resultado);
+                   break;
+               case '*':
+                   resultado = numero1 * numero2;
+                   System.out.println("Resultado: " + resultado);
+                   break;
+               case '/':
+                   // Verifica se o divisor é diferente de zero
+                   if (numero2 != 0) {
+                      resultado = numero1 / numero2;
+                      System.out.println("Resultado: " + resultado);
+                   } else {
+                      System.out.println("Erro: Divisão por zero não é permitida.");
+                   }
+                   break;
+               default:
+                   System.out.println("Operação inválida.");
+                   break;
+           }
+       
+           scanner.close(); // Fecha o Scanner
+       }
+   }
+   ```
 
 ## Explicação do Código
 - **Leitura de Dados com `Scanner`**:
@@ -85,20 +85,20 @@ public class BasicCalculator {
 
 ## Saída Esperada
 **Exemplo de Entrada e Saída:**
-```plaintext
-Digite o primeiro número: 10
-Digite o segundo número: 5
-Escolha uma operação (+, -, *, /): *
-Resultado: 50.0
-```
+   ```plaintext
+   Digite o primeiro número: 10
+   Digite o segundo número: 5
+   Escolha uma operação (+, -, *, /): *
+   Resultado: 50.0
+   ```
 
 **Divisão por Zero:**
-```plaintext
-Digite o primeiro número: 10
-Digite o segundo número: 0
-Escolha uma operação (+, -, *, /): /
-Erro: Divisão por zero não é permitida.
-```
+   ```plaintext
+   Digite o primeiro número: 10
+   Digite o segundo número: 0
+   Escolha uma operação (+, -, *, /): /
+   Erro: Divisão por zero não é permitida.
+   ```
 
 ---
 
