@@ -1,4 +1,10 @@
-## Enunciado do Exercício
+# Exercício: Variáveis e Tipos de Dados em Java
+
+Este exercício explora a declaração de variáveis em Java, cobrindo diferentes tipos de dados, atribuição de valores e impressão no console.
+
+---
+
+## 📌 Enunciado do Exercício
 Crie um programa em Java que:
 
 1. Declare variáveis de diferentes tipos de dados, incluindo:
@@ -12,7 +18,7 @@ Crie um programa em Java que:
 
 ---
 
-## Solução do Exercício
+## 💡 Solução do Exercício
 1. Crie uma nova classe chamada `DataTypes` dentro da pasta `exercicio2` (ou nome similar).
 2. No arquivo `DataTypes.java`, declare as variáveis com os tipos de dados mencionados e imprima os valores atribuídos.  
 
@@ -40,7 +46,7 @@ public class DataTypes {
 
 ---
 
-## Explicação do Código
+## 🔍 Explicação do Código
 - **Variáveis e Tipos de Dados:**
     - `int idade = 25;`: Declara uma variável do tipo `int` (inteiro) para armazenar uma idade.
     - `double altura = 1.75;`: Declara uma variável `double` para armazenar uma altura em metros.
@@ -52,7 +58,7 @@ public class DataTypes {
 
 ---
 
-## Saída Esperada
+## 📤 Saída Esperada
 Ao executar o programa, a saída será:
 
 ```console
