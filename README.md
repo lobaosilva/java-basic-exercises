@@ -4,11 +4,11 @@ Bem-vindo ao repositório de **Exercícios Básicos em Java**! Esta coleção de
 
 ## 📑 Conteúdo
 
-- **[Introdução](#introdução)** - Visão geral do propósito e escopo do repositório.
-- **[Exercícios](#exercícios)** - Lista dos exercícios com descrições breves.
-- **[Tecnologias Utilizadas](#tecnologias-utilizadas)** - Linguagens, ferramentas e software utilizados.
-- **[Como Executar](#como-executar)** - Instruções para executar os exercícios.
-- **[Licença](#licença)** - Informações sobre a licença.
+- **Introdução** - Visão geral do propósito e escopo do repositório.
+- **Exercícios** - Lista dos exercícios com descrições breves.
+- **Tecnologias Utilizadas** - Linguagens, ferramentas e software utilizados.
+- **Como Executar** - Instruções para executar os exercícios.
+- **Licença** - Informações sobre a licença.
 
 ---
 
@@ -27,8 +27,8 @@ Ao praticar esses exercícios, busquei construir uma base sólida em Java, prepa
 
 | Exercício                | Descrição                                                                       |
 |--------------------------|---------------------------------------------------------------------------------|
-| **1. Configuração do Projeto**  | Configuração de um projeto Java no IntelliJ e criação de um método `main`. |
-| **2. Tipos de Dados**    | Declaração de variáveis de diferentes tipos e exibição dos valores.             |
+| [**1. Configuração do Projeto**](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio1)  | Configuração de um projeto Java no IntelliJ e criação de um método `main`. |
+| [**2. Tipos de Dados**](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio2)    | Declaração de variáveis de diferentes tipos e exibição dos valores.             |
 | **3. Calculadora Básica** | Uma calculadora que realiza operações aritméticas básicas.                     |
 | **4. Par ou Ímpar**      | Verifica se um número é par ou ímpar.                                          |
 | **5. Média de Notas**    | Calcula a média de três notas e informa se o aluno foi aprovado.               |
