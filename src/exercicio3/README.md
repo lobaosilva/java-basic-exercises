@@ -1,4 +1,10 @@
-## Enunciado do Exercício
+# Exercício: Calculadora Simples em Java
+
+Este exercício propõe a criação de uma calculadora simples em Java, que permite ao usuário realizar operações matemáticas básicas (adição, subtração, multiplicação e divisão).
+
+---
+
+## 📌 Enunciado do Exercício
 Crie um programa em Java que funcione como uma calculadora simples. O programa deve:
 
 1. Pedir ao usuário que insira dois números.
@@ -7,7 +13,7 @@ Crie um programa em Java que funcione como uma calculadora simples. O programa d
 
 ---
 
-## Solução do Exercício
+## 💡 Solução do Exercício
 1. Crie uma nova classe chamada `BasicCalculator` dentro da pasta `exercicio3`.
 2. Implemente o código para que ele:
    - Utilize a classe `Scanner` para ler a entrada do usuário.
@@ -69,7 +75,7 @@ Aqui está o código para a classe `BasicCalculator`:
    }
    ```
 
-## Explicação do Código
+## 🔍 Explicação do Código
 - **Leitura de Dados com `Scanner`**:
   - `Scanner scanner = new Scanner(System.in);`: Inicia o `Scanner` para ler a entrada do usuário.
   - `scanner.nextDouble();`: Lê números de ponto flutuante (tipo `double`) fornecidos pelo usuário.
@@ -83,7 +89,7 @@ Aqui está o código para a classe `BasicCalculator`:
 
 ---
 
-## Saída Esperada
+## 📤 Saída Esperada
 **Exemplo de Entrada e Saída:**
    ```plaintext
    Digite o primeiro número: 10
