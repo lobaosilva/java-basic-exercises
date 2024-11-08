@@ -27,9 +27,9 @@ Ao praticar esses exercícios, busquei construir uma base sólida em Java, prepa
 
 | Exercício                | Descrição                                                                       |
 |--------------------------|---------------------------------------------------------------------------------|
-| **1. Configuração do Projeto**  | Configuração de um projeto Java no IntelliJ e criação de um método `main`. |
-| **2. Tipos de Dados**    | Declaração de variáveis de diferentes tipos e exibição dos valores.             |
-| **3. Calculadora Básica** | Uma calculadora que realiza operações aritméticas básicas.                     |
+| **1. [Configuração do Projeto](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio1)**  | Configuração de um projeto Java no IntelliJ e criação de um método `main`. |
+| **2. [Tipos de Dados](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio2)**    | Declaração de variáveis de diferentes tipos e exibição dos valores.             |
+| **3. [Calculadora Básica](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio3)** | Uma calculadora que realiza operações aritméticas básicas.                     |
 | **4. Par ou Ímpar**      | Verifica se um número é par ou ímpar.                                          |
 | **5. Média de Notas**    | Calcula a média de três notas e informa se o aluno foi aprovado.               |
 | **6. Tabuada**           | Imprime a tabuada de um número fornecido.                                      |
