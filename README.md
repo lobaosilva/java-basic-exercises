@@ -31,7 +31,7 @@ Ao praticar esses exercícios, busquei construir uma base sólida em Java, prepa
 | **2. [Tipos de Dados](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio2)**    | Declaração de variáveis de diferentes tipos e exibição dos valores.             |
 | **3. [Calculadora Básica](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio3)** | Uma calculadora que realiza operações aritméticas básicas.                     |
 | **4. [Par ou Ímpar](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio4)**      | Verifica se um número é par ou ímpar.                                          |
-| **5. Média de Notas**    | Calcula a média de três notas e informa se o aluno foi aprovado.               |
+| **5. [Média de Notas](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio5)**    | Calcula a média de três notas e informa se o aluno foi aprovado.               |
 | **6. Tabuada**           | Imprime a tabuada de um número fornecido.                                      |
 | **7. Sequência de Fibonacci** | Gera a sequência de Fibonacci até um número específico.                   |
 | **8. Simulador de Login** | Sistema básico de login com usuário e senha predefinidos.                     |
