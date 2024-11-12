@@ -4,11 +4,11 @@ Bem-vindo ao repositório de **Exercícios Básicos em Java**! Esta coleção de
 
 ## 📑 Conteúdo
 
-- **[Introdução](#introdução)** - Visão geral do propósito e escopo do repositório.
-- **[Exercícios](#exercícios)** - Lista dos exercícios com descrições breves.
-- **[Tecnologias Utilizadas](#tecnologias-utilizadas)** - Linguagens, ferramentas e software utilizados.
-- **[Como Executar](#como-executar)** - Instruções para executar os exercícios.
-- **[Licença](#licença)** - Informações sobre a licença.
+- **[Introdução](#-introdução)** - Visão geral do propósito e escopo do repositório.
+- **[Exercícios](#-exercícios)** - Lista dos exercícios com descrições breves.
+- **[Tecnologias Utilizadas](#-tecnologias-utilizadas)** - Linguagens, ferramentas e software utilizados.
+- **[Como Executar](#-como-executar)** - Instruções para executar os exercícios.
+- **[Licença](#-licença)** - Informações sobre a licença.
 
 ---
 
