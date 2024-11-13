@@ -33,7 +33,7 @@ Ao praticar esses exercícios, busquei construir uma base sólida em Java, prepa
 | **4. [Par ou Ímpar](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio4)**      | Verifica se um número é par ou ímpar.                                          |
 | **5. [Média de Notas](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio5)**    | Calcula a média de três notas e informa se o aluno foi aprovado.               |
 | **6. [Tabuada](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio6)**           | Imprime a tabuada de um número fornecido.                                      |
-| **7. Sequência de Fibonacci** | Gera a sequência de Fibonacci até um número específico.                   |
+| **7. [Sequência de Fibonacci](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio7)** | Gera a sequência de Fibonacci até um número específico.                   |
 | **8. Simulador de Login** | Sistema básico de login com usuário e senha predefinidos.                     |
 | **9. Jogo de Adivinhação** | Jogo onde o usuário tenta adivinhar um número aleatório.                     |
 | **10. Contador de Vogais** | Conta o número de vogais em uma palavra fornecida.                          |
