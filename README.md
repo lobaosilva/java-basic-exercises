@@ -35,7 +35,7 @@ Ao praticar esses exercícios, busquei construir uma base sólida em Java, prepa
 | **6. [Tabuada](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio6)**           | Imprime a tabuada de um número fornecido.                                      |
 | **7. [Sequência de Fibonacci](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio7)** | Gera a sequência de Fibonacci até um número específico.                   |
 | **8. [Simulador de Login](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio8)** | Sistema básico de login com usuário e senha predefinidos.                     |
-| **9. [Jogo de Adivinhação](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio8)** | Jogo onde o usuário tenta adivinhar um número aleatório.                     |
+| **9. [Jogo de Adivinhação](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio9)** | Jogo onde o usuário tenta adivinhar um número aleatório.                     |
 | **10. Contador de Vogais** | Conta o número de vogais em uma palavra fornecida.                          |
 
 Cada exercício é independente e pode ser executado de forma isolada.
