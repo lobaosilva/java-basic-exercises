@@ -38,6 +38,10 @@ Ao praticar esses exercícios, busquei construir uma base sólida em Java, prepa
 | **9. [Jogo de Adivinhação](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio9)** | Jogo onde o usuário tenta adivinhar um número aleatório.                     |
 | **10. [Contador de Vogais](https://github.com/lobaosilva/java-basic-exercises/tree/main/src/exercicio10)** | Conta o número de vogais em uma palavra fornecida.                          |
 
+| Desafio                  | Descrição                                                                       |
+|--------------------------|---------------------------------------------------------------------------------|
+| **[Sistema de Controle de Estoque](https://github.com/lobaosilva/InventoryManager)** | Um sistema interativo em Java que permite gerenciar produtos em um estoque. |
+
 Cada exercício é independente e pode ser executado de forma isolada.
 
 ## ⚙️ Tecnologias Utilizadas
